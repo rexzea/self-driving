@@ -1,1 +1,1 @@
-I created a bitcoin price detector tool based on machine learning
+I created a self driving tool based on machine learning
