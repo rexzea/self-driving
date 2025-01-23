@@ -1,6 +1,6 @@
 # 🚗 Autonomous Vehicle ML Simulator
 
-![Project Preview](/api/placeholder/1200/630)
+![Car Simulation](assets/f3.png)
 
 ## 🌟 Project Showcase
 
@@ -66,8 +66,7 @@ MIT Open Source License
 ## 🌈 Preview Screenshots
 
 ![Car Simulation](assets/f1.png)
-
-![Simulation Screen 2](/api/placeholder/800/600)
+![Car Simulation](assets/f2.png)
 
 ## 👏 Acknowledgments
 Inspired by cutting-edge autonomous vehicle research and open-source ML communities.
