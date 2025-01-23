@@ -66,7 +66,7 @@ MIT Open Source License
 ## 🌈 Preview
 
 ![Car Simulation](assets/f1.png)
-![Car Simulation](assets/f2.png)
+![Car Simulation](assets/f5.png)
 
 
 
