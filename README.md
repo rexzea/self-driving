@@ -1,11 +1,11 @@
-# 🚗 Autonomous Vehicle ML Simulator
+# 🚗 Self Driving Car Simulation PyGame
 
 ![Car Simulation](assets/f3.png)
 
 ## 🌟 Project Showcase
 
 ### Interactive Self-Driving Car Simulation
-Cutting edge Python based autonomous vehicle simulation leveraging machine learning and advanced sensor technologies.
+Cutting edge Python based autonomous vehicle simulation leveraging machine learning with sensor.
 
 ## 🛠 Technology Stack
 
@@ -69,4 +69,26 @@ MIT Open Source License
 ![Car Simulation](assets/f2.png)
 
 ## 👏 Acknowledgments
-Inspired by cutting-edge autonomous vehicle research and open-source ML communities.
+Inspired by cutting edge autonomous vehicle research and open source ML communities.
+
+
+## 📧 Contact
+
+Rexzea - [Instagram](https://www.instagram.com/alzennora/profilecard/?igsh=Ym8wZHFjcWRxaWhx) - futzfarry@gmail.com
+
+
+
+Project Link: [Face Detector](https://github.com/rexzea/Face-Detector.git)
+
+---
++62 898-8610-455
+
+<div align="center">
+
+
+![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+```
+🌟 Made with ❤️ by Rexzea 🌟
+```
+
+</div>
