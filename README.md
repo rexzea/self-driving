@@ -63,13 +63,11 @@ graph TD
 ## 📜 License
 MIT Open Source License
 
-## 🌈 Preview Screenshots
+## 🌈 Preview
 
 ![Car Simulation](assets/f1.png)
 ![Car Simulation](assets/f2.png)
 
-## 👏 Acknowledgments
-Inspired by cutting edge autonomous vehicle research and open source ML communities.
 
 
 ## 📧 Contact
