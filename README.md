@@ -76,7 +76,7 @@ Rexzea - [Instagram](https://www.instagram.com/alzennora/profilecard/?igsh=Ym8wZ
 
 
 
-Project Link: [Face Detector](https://github.com/rexzea/Face-Detector.git)
+Project Link: [self-driving-car](https://github.com/rexzea/self-driving-car)
 
 ---
 +62 898-8610-455
