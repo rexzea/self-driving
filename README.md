@@ -12,7 +12,7 @@ Cutting edge Python based autonomous vehicle simulation leveraging machine learn
 | Category | Technologies |
 |----------|--------------|
 | 🧠 Machine Learning | Mini Datasets |
-| 🖥️ Visualization | PyGame, |
+| 🖥️ Visualization | PyGame |
 | 🤖 Core Languages | Python 3.8+ |
 
 ## 🚦 Quick Start
