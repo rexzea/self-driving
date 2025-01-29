@@ -3,7 +3,7 @@ import random
 import sys
 import math
 
-pygame.init()
+pygame.init()            
 
 SCREEN_WIDTH = 1500
 SCREEN_HEIGHT = 900
