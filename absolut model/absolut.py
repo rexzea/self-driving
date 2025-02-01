@@ -181,7 +181,7 @@ def main():
                             score = 0
                             waiting = False
                 continue
-
+                                                                                         
         score += 1
 
         screen.fill(BLACK)
