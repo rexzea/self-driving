@@ -24,7 +24,10 @@ Cutting edge Python based autonomous vehicle simulation leveraging machine learn
 ### Installation
 ```bash
 # Clone Repository
- git clone https://github.com/rexzea/self-driving-car.git
+git clone https://github.com/rexzea/self-driving-car.git
+
+# Navigate Folder
+cd self-driving-car
 
 # Install Dependencies
 pip install -r requirements.txt
